@@ -1,0 +1,17 @@
+BAYERS145 WEBSITE
+
+1. Extract this ZIP.
+2. Open your GitHub repository: bayers145.github.io
+3. Click Add file → Upload files.
+4. Upload ALL files and the assets folder.
+5. Commit changes.
+6. Go to Settings → Pages.
+7. Select Deploy from a branch.
+8. Branch: main
+9. Folder: /(root)
+10. Save.
+
+Website:
+https://bayers145.github.io/
+
+Menu prices, reservations, ordering and contact forms are demo elements until connected to official restaurant systems.
